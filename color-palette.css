@@ -1,0 +1,62 @@
+
+:root {
+    /* Grays/Neutral */
+    --gray1: #21252A;
+    --gray2:#343A40;
+    --gray3:#495057;
+    --gray4:#858E96;
+    --gray5:#ACB5BD;
+    --gray6:#CFD4D9;
+    --gray7:#DEE2E6;
+    --gray8:#E9EDEF;
+    --gray9:#F1F3F5;
+    --gray10:#F8F9FA;
+
+    /* Primary */
+    --primary1: #122839;
+    --primary2:#1A4971;
+    --primary3:#2468A1;
+    --primary4:#3183C8;
+    --primary5:#64A1D8;
+    --primary6:#AAD4F5;
+    --primary7:#EFF8FF;
+
+    /* Accent */
+    --accent1: #114443;
+    --accent2: #1C645E;
+    --accent3: #2A9187;
+    --accent4: #3BAEA3;
+    --accent5: #6ED7D3;
+    --accent6: #A8EEEB;
+    --accent7: #E6FFFE;
+
+    /* Danger */
+    --danger1: #5F1817;
+    --danger2: #88191B;
+    --danger3: #AD1E1D;
+    --danger4: #DC2F30;
+    --danger5: #E36363;
+    --danger6: #F3AAAA;
+    --danger7: #FCE8E7;
+
+    /* Positive */
+    --positive1: #165139;
+    --positive2: #167741;
+    --positive3: #249D57;
+    --positive4: #39C072;
+    --positive5: #74D99E;
+    --positive6: #A8EDC0;
+    --positive7: #E3FCEC;
+
+    /* Positive */
+    --warning1: #5C4813;
+    --warning2: #8B6C20;
+    --warning3: #C9A43D;
+    --warning4: #F4C964;
+    --warning5: #F9E29F;
+    --warning6: #FCF3D7;
+    --warning7: #FFFCF4;
+
+
+}
+
