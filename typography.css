@@ -1,0 +1,17 @@
+:root {
+    --font-primary: sans-serif;
+    --font-secondary: serif;
+
+    /* type scale */
+    --text-1: 12px;
+    --text-2: 14px;
+    --text-3: 16px;
+    --text-4: 18px;
+    --text-5: 20px;
+    --text-6: 24px;
+    --text-7: 30px;
+    --text-8: 36px;
+    --text-9: 48px;
+    --text-10: 60px;
+    --text-11: 72px;
+}

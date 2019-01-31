@@ -1,3 +1,11 @@
+/* How to use
+--main-color: #21252A;
+
+#foo {
+    color: var(--main-color);
+}
+*/
+
 
 :root {
     /* Grays/Neutral */

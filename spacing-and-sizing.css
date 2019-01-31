@@ -1,0 +1,19 @@
+:root {
+    --space-unit: 16px;
+    --space-1:  calc(0.25 * var(--space-unit)); /* 4px */
+    --space-2:  calc(0.5 * var(--space-unit));  /* 8px */
+    --space-3:  calc(0.75 * var(--space-unit)); /* 12px */
+    --space-4:  calc(1 * var(--space-unit));    /* 16px */
+    --space-5:  calc(1.5 * var(--space-unit));  /* 24px */
+    --space-6:  calc(2 * var(--space-unit));    /* 32px */
+    --space-7:  calc(3 * var(--space-unit));    /* 48px */
+    --space-8:  calc(4 * var(--space-unit));    /* 64px */
+    --space-9:  calc(6 * var(--space-unit));    /* 96px */
+    --space-10:  calc(8 * var(--space-unit));   /* 128px */
+    --space-11:  calc(12 * var(--space-unit));  /* 192px */
+    --space-12:  calc(16 * var(--space-unit));  /* 256px */
+    --space-13:  calc(24 * var(--space-unit));  /* 384px */
+    --space-14:  calc(32 * var(--space-unit));  /* 512px */
+    --space-15:  calc(40 * var(--space-unit));  /* 640px */
+    --space-16:  calc(48 * var(--space-unit));  /* 768px */
+}
